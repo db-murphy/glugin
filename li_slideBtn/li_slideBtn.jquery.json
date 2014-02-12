@@ -1,0 +1,23 @@
+{
+  "name": "li_slideBtn",
+  "title": "Li Slidebtn",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/wuxia/li_slideBtn",
+  "author": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wuxia/li_slideBtn.git"
+  },
+  "bugs": "https://github.com/wuxia/li_slideBtn/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/wuxia/li_slideBtn/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
